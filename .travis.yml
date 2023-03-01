@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sudo: false
 
 language: node_js
@@ -13,3 +14,10 @@ script:
 
 notificaion:
   emails: false
+=======
+language: node_js
+node_js:
+  - '16'
+script:
+  - npm run coveralls
+>>>>>>> 5b2e2ed ( updating ch-Coveralls-coverage-#184581165)
