@@ -1,6 +1,7 @@
 service_name: travis-pro
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 repo_token: elr2SHhMuEIDAOYYsW9YRxGINi5BXeOss
 =======
 repo_token: oYGl0iYEohAWtvrA8zTuEXUt9aislOPu9
@@ -8,3 +9,6 @@ repo_token: oYGl0iYEohAWtvrA8zTuEXUt9aislOPu9
 =======
 repo_token: COVERALL_TOKEN
 >>>>>>> 3b5f2f2 ( updating ch-Coveralls-coverage-#184581165)
+=======
+repo_token: oYGl0iYEohAWtvrA8zTuEXUt9aislOPu9
+>>>>>>> d3c8c99 (Integrate Coveralls code coverage service)
