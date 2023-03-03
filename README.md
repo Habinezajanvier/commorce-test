@@ -29,7 +29,13 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/atlp-rwanda/e-comm-team-amigos-bn/badge.svg?branch=main)](https://coveralls.io/github/atlp-rwanda/e-comm-team-amigos-bn?branch=main)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 1b18391 ( Integrating Coverals and coverage)
 =======
 
 >>>>>>> 9fb1000 ( updating ch-Coveralls-coverage-#184581165)
+=======
+
+=======
+>>>>>>> eacd23c (Integrating travis CI)
+>>>>>>> 55b473e (Integrating travis CI)
