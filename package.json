@@ -9,9 +9,12 @@
     "clean": "rimraf build && mkdir build",
     "build-babel": "babel -d ./build src/ -s",
     "build": "npm run clean && npm run build-babel",
+<<<<<<< HEAD
     "test": "mocha --require @babel/register src/tests/*.test.js  --timeout 60000 --exit",
     "lint": "eslint src/",
     "lint-fix":"eslint src/ --fix",
+=======
+>>>>>>> 1b18391 ( Integrating Coverals and coverage)
     "coveralls": "mocha --coverage && cat ./coverage/lcov.info | coveralls"
   },
   "repository": {

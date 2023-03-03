@@ -1,2 +1,6 @@
 service_name: travis-pro
+<<<<<<< HEAD
 repo_token: elr2SHhMuEIDAOYYsW9YRxGINi5BXeOss
+=======
+repo_token: oYGl0iYEohAWtvrA8zTuEXUt9aislOPu9
+>>>>>>> 1b18391 ( Integrating Coverals and coverage)
