@@ -7,6 +7,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/atlp-rwanda/e-comm-team-amigos-bn/badge.svg?branch=main)](https://coveralls.io/github/atlp-rwanda/e-comm-team-amigos-bn?branch=main)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4e7c6ed ( Integrating Coverals and coverage)
 =======
 
@@ -16,3 +17,5 @@
 =======
 >>>>>>> eacd23c (Integrating travis CI)
 >>>>>>> 167619b (Integrating travis CI)
+=======
+>>>>>>> a77b51a (Coveralls and coverrage)
