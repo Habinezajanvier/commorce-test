@@ -12,7 +12,7 @@
     "lint": "eslint src/",
     "lint-fix": "eslint src/ --fix",
     "test": "nyc --reporter=lcov --reporter=text --require @babel/register mocha src/tests/*.test.js --timeout 60000 --exit",
-    "coverage": "nyc report --reporter=text-lcov | coveralls"
+    "coverage": "nyc report --reporter=text-lcov > ./coverage/lcov.txt"
   },
   "repository": {
     "type": "git",
