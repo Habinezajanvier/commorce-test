@@ -17,7 +17,7 @@ jobs:
           name: Run tests
       - run: # run code coverage report
           name: code-coverage
-          command: npm run coverage
+          command: npm coverage
       - coveralls/upload
 workflows:
   test_app:
