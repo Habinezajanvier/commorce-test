@@ -19,6 +19,7 @@ jobs:
           name: code-coverage
           command: npm run coverage
       - coveralls/upload
+          path_to_lcov:
 workflows:
   test_app:
     jobs:
