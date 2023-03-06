@@ -32,10 +32,10 @@ lib-cov
 #edited by wilbrord
 #coverage
 #*.lcov
+#end
 
 # nyc test coverage
-#.nyc_output
-#end
+.nyc_output
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
